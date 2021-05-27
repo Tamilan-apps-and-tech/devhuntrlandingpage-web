@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ad0ab866.chunk.css",
+    "main.js": "./static/js/main.9ca5a3bb.chunk.js",
+    "main.js.map": "./static/js/main.9ca5a3bb.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.52703d8b.js",
+    "runtime-main.js.map": "./static/js/runtime-main.52703d8b.js.map",
+    "static/js/2.4b7d7302.chunk.js": "./static/js/2.4b7d7302.chunk.js",
+    "static/js/2.4b7d7302.chunk.js.map": "./static/js/2.4b7d7302.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.ad0ab866.chunk.css.map": "./static/css/main.ad0ab866.chunk.css.map",
+    "static/js/2.4b7d7302.chunk.js.LICENSE.txt": "./static/js/2.4b7d7302.chunk.js.LICENSE.txt",
+    "static/media/ai-brain.3e2383e6.png": "./static/media/ai-brain.3e2383e6.png",
+    "static/media/docs.8b1a601c.png": "./static/media/docs.8b1a601c.png",
+    "static/media/docs.fa7dcfe2.svg": "./static/media/docs.fa7dcfe2.svg",
+    "static/media/logo.ecb5fd18.png": "./static/media/logo.ecb5fd18.png",
+    "static/media/mockup.413b645c.png": "./static/media/mockup.413b645c.png",
+    "static/media/search.0f026f92.png": "./static/media/search.0f026f92.png",
+    "static/media/shortcut.d66aaec9.png": "./static/media/shortcut.d66aaec9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52703d8b.js",
+    "static/js/2.4b7d7302.chunk.js",
+    "static/css/main.ad0ab866.chunk.css",
+    "static/js/main.9ca5a3bb.chunk.js"
+  ]
+}
